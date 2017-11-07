@@ -1,0 +1,9 @@
+{
+    "appSecret": "59cadb2b47a068056e90647194774d0f",
+    "pageAccessToken": "EAACUL6FTI4kBAP5ZAuA9EhVvid3X8PhhwtxQyURd8C1q5RiAac6aktXgNGg7ObeKIFFdeEw2yAOHEx1ZAEZBkNjuEEi2p7vnXnQmidRDflg20tgsrZAGOEjXv9o0iy4ha0vQZAHwiBMpx4H4HSlxgxh12ed2LepIjCkaZCnl2cDZCiwY2ASR3rr",
+    "validationToken": "zinobot",
+    "serverURL": "https://ba3bb0d4.ngrok.io",
+    "twitterKey":"RPRAAaCfVMsG037NnUTWi26w0",
+    "twitterSecret":"QCrWZ6ueVdT2jygQE01Xgd8Phnwo3dFHpqVmSGGu9tL56s02VH",
+    "twitterBearerToken":"RPRAAaCfVMsG037NnUTWi26w0: QCrWZ6ueVdT2jygQE01Xgd8Phnwo3dFHpqVmSGGu9tL56s02VH"
+}
